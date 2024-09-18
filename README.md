@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
     ```bash
     git clone https://github.com/CodeSaadUmair/Clock-App.git
-    cd Clock-Aap
+    cd Clock-App
     ```
 
 2. **Open the HTML file in your browser:**
